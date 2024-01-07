@@ -2,14 +2,14 @@
 
 This is the repository for the code in the paper Investigating Concept Definition and Skill Modeling for Cognitive Diagnosis in Language Learning.
 
-Authors: Boxuan Ma, Sora Fukui, Yuji Ando and Shin'ichi Konomi. ([LINK](https://dl.acm.org/doi/10.1145/3576050.3576062))
+Authors: Boxuan Ma, Sora Fukui, Yuji Ando and Shin'ichi Konomi. ([LINK]())
 
 ```
 @inproceedings{ma2023each,
   title={Investigating Concept Definition and Skill Modeling for Cognitive Diagnosis in Language Learning},
   author={Ma, Boxuan and Fukui, Sora and Ando, Yuji and Konomi, Shin'ichi },
-  pages={79--88},
-  year={2023}
+  pages={--},
+  year={2024}
 }
 ```
 
