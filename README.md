@@ -5,7 +5,7 @@ This is the repository for the code in the paper Investigating Concept Definitio
 Authors: Boxuan Ma, Sora Fukui, Yuji Ando and Shin'ichi Konomi. ([LINK]())
 
 ```
-@inproceedings{ma2023each,
+@inproceedings{ma2024invest,
   title={Investigating Concept Definition and Skill Modeling for Cognitive Diagnosis in Language Learning},
   author={Ma, Boxuan and Fukui, Sora and Ando, Yuji and Konomi, Shin'ichi },
   pages={--},
