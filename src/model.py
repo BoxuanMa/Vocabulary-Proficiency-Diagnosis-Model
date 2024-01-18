@@ -659,11 +659,11 @@ class Net_lsirt(nn.Module):
 
         return output.view(-1) ,e_difficulty.view(-1) , k_difficulty.view(-1,5) , slip_ad.view(-1) , guess_ad.view(-1), input_exercise.view(-1),inut_word.view(-1), inut_format.view(-1),stu_id.view(-1),stat_emb.view(-1,5)
 
-class NCDM(CDM):
-    '''Neural Cognitive Diagnosis Model'''
+class VPDM(CDM):
+
 
     def __init__(self, knowledge_n, exer_n, word_n, student_n, pretrained_embeddings):
-        super(NCDM, self).__init__()
+        super(VPDM, self).__init__()
         #self.ncdm_net =Net_lsirt(knowledge_n, exer_n, word_n, student_n)
         self.ncdm_net = Net_lsirt(knowledge_n, exer_n, word_n, student_n, pretrained_embeddings)
 
