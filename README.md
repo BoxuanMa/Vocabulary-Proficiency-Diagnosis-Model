@@ -1,7 +1,24 @@
 # Vocabulary-Proficiency-Diagnosis-Model
 
-This is the repository for the code in the paper Investigating Concept Definition and Skill Modeling for Cognitive Diagnosis in Language Learning.
+This is the repository for the code in the paper 
 
+Investigating Concept Definition and Skill Modeling for Cognitive Diagnosis in Language Learning.
+Authors: Boxuan Ma, Gayan Prasad Hettiarachchi, Sora Fukui, and Yuji Ando. ([LINK](https://educationaldatamining.org/EDM2023/proceedings/2023.EDM-long-papers.13/2023.EDM-long-papers.13.pdf))
+
+```
+@inproceedings{boxuan_ma_2023_8115675,
+  author       = {Boxuan Ma and Gayan Prasad Hettiarachchi and Sora Fukui and Yuji Ando},
+  title        = {Exploring the effectiveness of Vocabulary Proficiency Diagnosis Using Linguistic Concept and Skill Modeling},
+  booktitle    = {{Proceedings of the 16th International Conference on Educational Data Mining}},
+  year         = 2023,
+  pages        = {149--159},
+  publisher    = {International Educational Data Mining Society},
+}
+```
+
+and 
+
+Investigating Concept Definition and Skill Modeling for Cognitive Diagnosis in Language Learning.
 Authors: Boxuan Ma, Sora Fukui, Yuji Ando and Shin'ichi Konomi. ([LINK]())
 
 ```
