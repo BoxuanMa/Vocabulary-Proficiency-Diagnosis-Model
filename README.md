@@ -2,7 +2,8 @@
 
 This is the repository for the code in the paper 
 
-Investigating Concept Definition and Skill Modeling for Cognitive Diagnosis in Language Learning.
+Exploring the effectiveness of Vocabulary Proficiency Diagnosis Using Linguistic Concept and Skill Modeling.
+
 Authors: Boxuan Ma, Gayan Prasad Hettiarachchi, Sora Fukui, and Yuji Ando. ([LINK](https://educationaldatamining.org/EDM2023/proceedings/2023.EDM-long-papers.13/2023.EDM-long-papers.13.pdf))
 
 ```
@@ -19,6 +20,7 @@ Authors: Boxuan Ma, Gayan Prasad Hettiarachchi, Sora Fukui, and Yuji Ando. ([LIN
 and 
 
 Investigating Concept Definition and Skill Modeling for Cognitive Diagnosis in Language Learning.
+
 Authors: Boxuan Ma, Sora Fukui, Yuji Ando and Shin'ichi Konomi. ([LINK]())
 
 ```
